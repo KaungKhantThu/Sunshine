@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Sunshine</string>
     <string name="action_settings">Settings</string>
+    <string name="dummy_date">ယနေ့ မတ် ၀၁</string>
+    <string name="today_max_temp">၃၀•</string>
+    <string name="today_min_temp">၂၂•</string>
+    <string name="today_weather">မိုးပြေးရွာ</string>
+    <string name="lbl_moisture_amount_data_first">ရေငွေ့ပါဝင်မူ</string>
+    <string name="lbl_moisture_amount_data_second">ပမာဏ</string>
+    <string name="lbl_pressure">လေဖိအား</string>
+    <string name="dummy_moisture_amount">64%</string>
+    <string name="pressure">1027.84 h Pa</string>
+    <string name="lbl_dummy_speed">လေတိုက်နုှန်း</string>
+    <string name="speed">3.91 km/h SE</string>
 </resources>
